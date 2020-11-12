@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o77rQH/G53AoT+p4YOCvYmmVqpPrvGZ4kuoqp0FI4SX7cT0efGUIken3+DT1CjzcJ5VPzu7jfMo4D91k9qErPw==",
+  "success": true,
+  "projectFilePath": "/Users/akanumoren/Projects/MMTShop/MMTShopClient/MMTShopClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/akanumoren/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

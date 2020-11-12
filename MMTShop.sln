@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTShop.Data", "MMTShop.Data\MMTShop.Data.csproj", "{0D4D7516-2A39-4A8D-ABF8-956C8E67E74E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTShop.Business", "MMTShop.Business\MMTShop.Business.csproj", "{5477395D-4550-4C89-B066-04E0F4D8D8A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTShop", "MMTShop\MMTShop.csproj", "{60AE83CD-D5BE-4210-8154-03894A54DC97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C8267714-DFBE-4FEE-8E79-D205DA230EC0}"
+	ProjectSection(SolutionItems) = preProject
+		MMTShop.sql = MMTShop.sql
+		sampleData.sql = sampleData.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTShop.Tests", "MMTShop.Tests\MMTShop.Tests.csproj", "{D20A89F5-8BEF-4C54-ACC1-EC098528023D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTShopClient", "MMTShopClient\MMTShopClient.csproj", "{275C15AF-E971-4C74-A61C-785ECCC39406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4D7516-2A39-4A8D-ABF8-956C8E67E74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4D7516-2A39-4A8D-ABF8-956C8E67E74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4D7516-2A39-4A8D-ABF8-956C8E67E74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4D7516-2A39-4A8D-ABF8-956C8E67E74E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5477395D-4550-4C89-B066-04E0F4D8D8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5477395D-4550-4C89-B066-04E0F4D8D8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5477395D-4550-4C89-B066-04E0F4D8D8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5477395D-4550-4C89-B066-04E0F4D8D8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AE83CD-D5BE-4210-8154-03894A54DC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AE83CD-D5BE-4210-8154-03894A54DC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AE83CD-D5BE-4210-8154-03894A54DC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AE83CD-D5BE-4210-8154-03894A54DC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20A89F5-8BEF-4C54-ACC1-EC098528023D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20A89F5-8BEF-4C54-ACC1-EC098528023D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20A89F5-8BEF-4C54-ACC1-EC098528023D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20A89F5-8BEF-4C54-ACC1-EC098528023D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275C15AF-E971-4C74-A61C-785ECCC39406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275C15AF-E971-4C74-A61C-785ECCC39406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275C15AF-E971-4C74-A61C-785ECCC39406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275C15AF-E971-4C74-A61C-785ECCC39406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

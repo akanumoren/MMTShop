@@ -1,0 +1,12 @@
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/bin/Debug/netstandard2.1/MMTShop.Business.deps.json
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/bin/Debug/netstandard2.1/MMTShop.Business.dll
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/bin/Debug/netstandard2.1/MMTShop.Business.pdb
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/bin/Debug/netstandard2.1/MMTShop.Data.dll
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/bin/Debug/netstandard2.1/MMTShop.Data.pdb
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/obj/Debug/netstandard2.1/MMTShop.Business.csprojAssemblyReference.cache
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/obj/Debug/netstandard2.1/MMTShop.Business.AssemblyInfoInputs.cache
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/obj/Debug/netstandard2.1/MMTShop.Business.AssemblyInfo.cs
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/obj/Debug/netstandard2.1/MMTShop.Business.csproj.CoreCompileInputs.cache
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/obj/Debug/netstandard2.1/MMTShop.Business.csproj.CopyComplete
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/obj/Debug/netstandard2.1/MMTShop.Business.dll
+/Users/akanumoren/Projects/MMTShop/MMTShop.Business/obj/Debug/netstandard2.1/MMTShop.Business.pdb

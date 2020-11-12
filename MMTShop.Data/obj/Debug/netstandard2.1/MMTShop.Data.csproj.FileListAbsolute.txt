@@ -1,0 +1,9 @@
+/Users/akanumoren/Projects/MMTShop/MMTShop.Data/bin/Debug/netstandard2.1/MMTShop.Data.deps.json
+/Users/akanumoren/Projects/MMTShop/MMTShop.Data/bin/Debug/netstandard2.1/MMTShop.Data.dll
+/Users/akanumoren/Projects/MMTShop/MMTShop.Data/bin/Debug/netstandard2.1/MMTShop.Data.pdb
+/Users/akanumoren/Projects/MMTShop/MMTShop.Data/obj/Debug/netstandard2.1/MMTShop.Data.AssemblyInfoInputs.cache
+/Users/akanumoren/Projects/MMTShop/MMTShop.Data/obj/Debug/netstandard2.1/MMTShop.Data.AssemblyInfo.cs
+/Users/akanumoren/Projects/MMTShop/MMTShop.Data/obj/Debug/netstandard2.1/MMTShop.Data.csproj.CoreCompileInputs.cache
+/Users/akanumoren/Projects/MMTShop/MMTShop.Data/obj/Debug/netstandard2.1/MMTShop.Data.dll
+/Users/akanumoren/Projects/MMTShop/MMTShop.Data/obj/Debug/netstandard2.1/MMTShop.Data.pdb
+/Users/akanumoren/Projects/MMTShop/MMTShop.Data/obj/Debug/netstandard2.1/MMTShop.Data.csprojAssemblyReference.cache

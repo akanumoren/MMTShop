@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/akanumoren/Projects/MMTShop/MMTShop/MMTShop.csproj": {}
+  },
+  "projects": {
+    "/Users/akanumoren/Projects/MMTShop/MMTShop.Business/MMTShop.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akanumoren/Projects/MMTShop/MMTShop.Business/MMTShop.Business.csproj",
+        "projectName": "MMTShop.Business",
+        "projectPath": "/Users/akanumoren/Projects/MMTShop/MMTShop.Business/MMTShop.Business.csproj",
+        "packagesPath": "/Users/akanumoren/.nuget/packages/",
+        "outputPath": "/Users/akanumoren/Projects/MMTShop/MMTShop.Business/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/akanumoren/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "http://nuget.u2asolutions.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/akanumoren/Projects/MMTShop/MMTShop.Data/MMTShop.Data.csproj": {
+                "projectPath": "/Users/akanumoren/Projects/MMTShop/MMTShop.Data/MMTShop.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/akanumoren/Projects/MMTShop/MMTShop.Data/MMTShop.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akanumoren/Projects/MMTShop/MMTShop.Data/MMTShop.Data.csproj",
+        "projectName": "MMTShop.Data",
+        "projectPath": "/Users/akanumoren/Projects/MMTShop/MMTShop.Data/MMTShop.Data.csproj",
+        "packagesPath": "/Users/akanumoren/.nuget/packages/",
+        "outputPath": "/Users/akanumoren/Projects/MMTShop/MMTShop.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/akanumoren/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "http://nuget.u2asolutions.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/akanumoren/Projects/MMTShop/MMTShop/MMTShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akanumoren/Projects/MMTShop/MMTShop/MMTShop.csproj",
+        "projectName": "MMTShop",
+        "projectPath": "/Users/akanumoren/Projects/MMTShop/MMTShop/MMTShop.csproj",
+        "packagesPath": "/Users/akanumoren/.nuget/packages/",
+        "outputPath": "/Users/akanumoren/Projects/MMTShop/MMTShop/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/akanumoren/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://nuget.u2asolutions.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/akanumoren/Projects/MMTShop/MMTShop.Business/MMTShop.Business.csproj": {
+                "projectPath": "/Users/akanumoren/Projects/MMTShop/MMTShop.Business/MMTShop.Business.csproj"
+              },
+              "/Users/akanumoren/Projects/MMTShop/MMTShop.Data/MMTShop.Data.csproj": {
+                "projectPath": "/Users/akanumoren/Projects/MMTShop/MMTShop.Data/MMTShop.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

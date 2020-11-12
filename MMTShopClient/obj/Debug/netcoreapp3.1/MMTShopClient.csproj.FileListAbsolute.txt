@@ -1,0 +1,14 @@
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/bin/Debug/netcoreapp3.1/MMTShopClient.deps.json
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/bin/Debug/netcoreapp3.1/MMTShopClient.runtimeconfig.json
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/bin/Debug/netcoreapp3.1/MMTShopClient.runtimeconfig.dev.json
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/bin/Debug/netcoreapp3.1/MMTShopClient.dll
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/bin/Debug/netcoreapp3.1/MMTShopClient.pdb
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/obj/Debug/netcoreapp3.1/MMTShopClient.csprojAssemblyReference.cache
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/obj/Debug/netcoreapp3.1/MMTShopClient.AssemblyInfoInputs.cache
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/obj/Debug/netcoreapp3.1/MMTShopClient.AssemblyInfo.cs
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/obj/Debug/netcoreapp3.1/MMTShopClient.csproj.CoreCompileInputs.cache
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/obj/Debug/netcoreapp3.1/MMTShopClient.csproj.CopyComplete
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/obj/Debug/netcoreapp3.1/MMTShopClient.dll
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/obj/Debug/netcoreapp3.1/MMTShopClient.pdb
+/Users/akanumoren/Projects/MMTShop/MMTShopClient/obj/Debug/netcoreapp3.1/MMTShopClient.genruntimeconfig.cache
